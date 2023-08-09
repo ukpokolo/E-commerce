@@ -55,7 +55,7 @@ const Footer = () => {
             </ContactItem>
             <ContactItem>
                 <FiMail style={{marginRight: '10px'}}/>
-                okunowogbemi@gmail.com
+                jiukpokolo@gmail.com
             </ContactItem>
         </Right>
     </Container>
